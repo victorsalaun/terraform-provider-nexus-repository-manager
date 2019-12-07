@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/hashicorp/terraform-plugin-sdk/plugin"
+	"github.com/hashicorp/terraform/plugin"
 	"github.com/victorsalaun/terraform-provider-nexus-repository-manager/nexus-repository-manager"
 )
 
